@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Data Scientist from Colombia 🇨🇴 </h3>
 👋 ¡Hola, soy Richard Libreros!
 
-🚀 Soy un apasionado Data Scientist con una profunda fascinación por el mundo del Machine Learning y la Inteligencia Artificial. Me encanta explorar nuevos horizontes tecnológicos y traducir ideas en proyectos innovadores.
+🚀 Data Scientist with a deep fascination for the world of Machine Learning and Artificial Intelligence. I love exploring new technological frontiers and translating ideas into innovative projects.
 
-📚 Mi principal herramienta es Python, pero también tengo experiencia en otros lenguajes como JavaScript, C#, y Lua.
+📚 My primary tool is Python, but I also have experience in other languages such as JavaScript, C#, and Lua.
 
-💡 En mi perfil, encontrarás una colección de proyectos donde aplico mis conocimientos y creatividad. Siéntete libre de explorar y aprender conmigo.
+💡 In my profile, you will find a collection of projects where I apply my knowledge and creativity. Feel free to explore and learn with me.
 
-🌱 Siempre estoy en busca de oportunidades para aprender y crecer. ¡Conéctate conmigo y exploremos juntos el emocionante mundo de la ciencia de datos y la programación!
+🌱 I am always on the lookout for opportunities to learn and grow. Connect with me, and let's explore the exciting world of data science and programming together!
 
-📫 Puedes contactarme en libreros00@gmail.com o [tu sitio web] para cualquier consulta o colaboración.
+📫 You can reach out to me at libreros00@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-libreros97/) for any inquiries or collaboration.
 
-¡Gracias por visitar mi perfil y espero que encuentres algo inspirador aquí! 🌟
+Thank you for visiting my profile, and I hope you find something inspiring here! 🌟
 
 
 # 💻 Tech Stack:
@@ -28,4 +28,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=caozrich&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
