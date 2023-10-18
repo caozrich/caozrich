@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Libreros</h1>
-<h3 align="center">A passionate Data Scientist from Colombia </h3>
+<h3 align="center">A passionate Data Scientist / Data Analyst from Colombia </h3>
 
 🚀 Data Scientist with a deep fascination for the world of Machine Learning and Artificial Intelligence. I love exploring new technological frontiers and translating ideas into innovative projects.
 
