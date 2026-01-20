@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Richard Libreros</h1>
-<h3 align="center">A passionate Data Scientist / Data Analyst from Colombia </h3>
+<h3 align="center">Data Engineer & Data Scientist from Colombia 🇨🇴</h3>
 
-🚀 Data Scientist with a deep fascination for the world of Machine Learning and Artificial Intelligence. I love exploring new technological frontiers and translating ideas into innovative projects.
+🚀 Data Engineer & Data Scientist with a strong passion for building scalable data platforms, serverless architectures, and transforming raw data into actionable insights. I enjoy working at the intersection of data engineering, analytics, and machine learning.
 
-📚 My primary tool is Python, but I also have experience in other languages such as JavaScript, C#, and Lua.
+🏗️ My core focus is designing and implementing end-to-end data pipelines: ingestion, transformation (ETL/ELT), storage, and analytics, using cloud-native and distributed systems.
 
-💡 In my profile, you will find a collection of projects where I apply my knowledge and creativity. Feel free to explore and learn with me.
+📚 Python is my primary tool, especially for data processing and automation, but I also have experience with JavaScript, C#, and Lua for backend logic, scripting, and integrations.
 
-🌱 I am always on the lookout for opportunities to learn and grow. Connect with me, and let's explore the exciting world of data science and programming together!
+💡 In my profile, you’ll find projects focused on Data Engineering, Lakehouse architectures, cloud automation, and applied machine learning—always aiming for production-ready, scalable solutions.
 
-📫 You can reach out to me at libreros00@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-libreros97/) for any inquiries or collaboration.
+🌱 I’m constantly learning and improving, particularly in cloud data platforms, big data processing, and modern analytics stacks. Let’s connect and build data-driven systems together.
 
-Thank you for visiting my profile, and I hope you find something inspiring here! 🌟
+📫 You can reach me at libreros00@gmail.com or on  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-libreros97/)
+
+Thanks for visiting my profile — I hope you find something useful or inspiring here! 🌟
+
 
 
 # 💻 Tech Stack:
